@@ -1,4 +1,4 @@
-# 🚀 MECKARUP
+# MECKARUP
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/prakashiitp/Meckarup-Overview/main/docs-assets/demo.gif" width="100%" />
